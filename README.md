@@ -13,14 +13,15 @@ This project is a simple example of a machine learning model using XGBoost to pr
 Clone the repository:
 
 ```bash
-git clone https://github.com/your_user/your_repository.git
-cd your_repository
+git clone https://github.com/Lucash00/Modelo_XgBoost_Test-Prediccion-Refrigerador.git
+cd Modelo_XgBoost_Test-Prediccion-Refrigerador
 ```
 
 ## Create a virtual environment and install dependencies:
 
 ```bash
 python -m venv .venv
+
 source .venv/bin/activate # Linux/macOS
 .venv\Scripts\activate # Windows
 
